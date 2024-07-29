@@ -4,7 +4,7 @@
 This project aims to provide an in-depth analysis of the assistance services offered to people with reduced mobility across the French National Railway Company (SNCF) network. Through exploratory data analysis and advanced analytics in Python, followed by interactive visualization in Tableau, we seek to uncover regional disparities, analyze the correlation between station traffic and assistance provided, and offer recommendations to improve service accessibility. The ultimate goal is to enhance the travel experience for disabled individuals within the SNCF network.
 
 ## Data Source(s)
-The dataset for this analysis is sourced from two primary locations:
+The dataset for this analysis is sourced from two primary locations: 
 - **SNCF Open Data**: [ressources.data.sncf.com](https://ressources.data.sncf.com)
 - **French Government Open Data Portal**: [data.gouv.fr](https://data.gouv.fr)
 
